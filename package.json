@@ -1,0 +1,22 @@
+{
+  "name": "telegram_bot_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yue-Bu/Telegram_bot_todo.git"
+  },
+  "author": "Lexi Bu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yue-Bu/Telegram_bot_todo/issues"
+  },
+  "homepage": "https://github.com/Yue-Bu/Telegram_bot_todo#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
