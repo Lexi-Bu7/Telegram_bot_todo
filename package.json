@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Yue-Bu/Telegram_bot_todo#readme",
   "dependencies": {
+    "mongoose": "^5.12.8",
     "node-telegram-bot-api": "^0.53.0"
   }
 }
